@@ -15,4 +15,3 @@ class Post(models.model):
 
     def __str__(self):
         return self.title
-        
